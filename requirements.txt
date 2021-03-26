@@ -46,7 +46,7 @@ pyhibp==4.1.0
 python-apt===1.6.5-ubuntu0.2-elementary14-ubuntu5.1.1
 pytz==2020.1
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 query-string==2019.4.13
 reportlab==3.4.0
 request==2019.4.13
