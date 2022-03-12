@@ -35,7 +35,7 @@ onboard==1.4.1
 opencv-python==4.2.0.34
 pexpect==4.2.1
 phonenumbers==8.12.6
-Pillow==5.1.0
+Pillow==9.0.1
 post==2019.4.13
 public==2019.4.13
 pycairo==1.16.2
